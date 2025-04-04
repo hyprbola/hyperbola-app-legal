@@ -1,6 +1,6 @@
 # PRIVACY POLICY FOR HYPERBOLA
 
-**Last Updated: April 3, 2025**
+**Last Updated: April 4, 2025**
 
 ## INTRODUCTION
 
@@ -97,16 +97,15 @@ You can request account deletion, which includes:
 * ✔ Erasure of delivery addresses and contact details
 
 **How to Delete Your Account**:
-1. Go to Account Settings in the app
-2. Select "Delete My Account"
-3. Confirm deletion
-4. Verify identity via OTP
-5. Alternatively, email our support team for manual deletion.
+1. Go to Delete Account option from the drawer menu in the app
+2. Fill in the required information
+3. Confirm deletion. That will b all
+4. Alternatively, email our support team for manual deletion.
 
 **Important Notes on Account Deletion**:
 * Deletion is permanent and cannot be undone.
 * Some data may be retained for legal compliance.
-* **Processing Time**: 7 working days.
+* **Processing Time**: Up-to 7 working days.
 
 ## 6. DATA RETENTION
 
