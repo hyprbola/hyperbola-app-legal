@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hyperbola - Privacy Policy</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/4.3.0/marked.min.js"></script>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 60%;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f9f9f9;
+        }
+        .container {
+            background-color: white;
+            border-radius: 8px;
+            padding: 30px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        header {
+            margin-bottom: 30px;
+        }
+        header h1 {
+            color: #2e86de;
+        }
+        header p {
+            color: #666;
+        }
+        #policy-content {
+            line-height: 1.7;
+        }
+        #policy-content h1, #policy-content h2, #policy-content h3 {
+            color: #2e86de;
+            margin-top: 1.5em;
+        }
+        #policy-content ul, #policy-content ol {
+            padding-left: 20px;
+        }
+        #policy-content a {
+            color: #2e86de;
+        }
+        .back-link {
+            display: inline-block;
+            margin-top: 30px;
+            color: #2e86de;
+            text-decoration: none;
+        }
+        .back-link:hover {
+            text-decoration: underline;
+        }
+        footer {
+            margin-top: 40px;
+            text-align: center;
+            color: #666;
+            font-size: 0.9em;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div id="policy-content">
+            <p>Loading privacy policy...</p>
+        </div>
+
+        <a href="../index.html" class="back-link">← Back to Hyperbola homepage</a>
+
+        <footer>
+            <p>© 2025 Hyperbola App. All rights reserved.</p>
+        </footer>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            // Fetch the markdown file
+            fetch('privacy-policy.md')
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('Failed to load privacy policy');
+                    }
+                    return response.text();
+                })
+                .then(markdown => {
+                    document.getElementById('policy-content').innerHTML = marked.parse(markdown);
+                })
+                .catch(error => {
+                    console.error('Error loading privacy policy:', error);
+                    document.getElementById('policy-content').innerHTML = '<p>Error loading privacy policy. Please try again later.</p>';
+                });
+        });
+    </script>
+</body>
+</html>
