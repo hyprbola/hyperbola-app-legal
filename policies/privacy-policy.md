@@ -56,11 +56,11 @@ We use the collected information for:
 ## 3. DATA STORAGE AND SECURITY
 
 We implement strict security measures to protect your information:
-* ✅ Data encryption for sensitive information
-* ✅ Regular security audits and updates
-* ✅ Strict access controls for internal staff
-* ✅ Secure data backup systems
-* ✅ Industry-standard data protection protocols
+* Data encryption for sensitive information
+* Regular security audits and updates
+* Strict access controls for internal staff
+* Secure data backup systems
+* Industry-standard data protection protocols
 
 ## 4. DATA SHARING AND DISCLOSURE
 
@@ -76,25 +76,25 @@ We do not sell your personal information. Your data is only shared in the follow
 
 ### 5.1 Right to Access Personal Data
 You can:
-* ✔ Request a copy of your personal data
-* ✔ View the types of data collected about you
-* ✔ Receive data in a structured format
+* Request a copy of your personal data
+* View the types of data collected about you
+* Receive data in a structured format
 
 **Processing Time**: 30 days from request submission.
 
 ### 5.2 Right to Correct Information
 You can:
-* ✔ Request corrections to inaccurate data
-* ✔ Update your profile details in the app
-* ✔ Provide supporting documents for corrections
+* Request corrections to inaccurate data
+* Update your profile details in the app
+* Provide supporting documents for corrections
 
 **Processing Time**: 15 working days.
 
 ### 5.3 Right to Delete Account
 You can request account deletion, which includes:
-* ✔ Removal of your personal information
-* ✔ Deletion of purchase history and wishlist data
-* ✔ Erasure of delivery addresses and contact details
+* Removal of your personal information
+* Deletion of purchase history and wishlist data
+* Erasure of delivery addresses and contact details
 
 **How to Delete Your Account**:
 1. Go to Delete Account option from the drawer menu in the app
@@ -133,8 +133,8 @@ For privacy-related inquiries or to exercise your rights, contact us at:
 ## 11. COMPLIANCE WITH LAWS
 
 This Privacy Policy complies with:
-* ✅ Information Technology Act, 2000 (India)
-* ✅ Information Technology Rules, 2011
-* ✅ Consumer Protection Act, 2019
-* ✅ E-commerce Rules, 2020
-* ✅ Google Play Store Developer Program Policies
+* Information Technology Act, 2000 (India)
+* Information Technology Rules, 2011
+* Consumer Protection Act, 2019
+* E-commerce Rules, 2020
+* Google Play Store Developer Program Policies
