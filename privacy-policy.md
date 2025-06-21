@@ -182,7 +182,7 @@ Cancel the order with a full refund at the customer's discretion.Under no circum
 
 ## 11. CHANGES TO THIS PRIVACY POLICY
 
-We may update this Privacy Policy from time to time. We will notify you of any significant changes by posting the updated policy on this page and revising the "Last Updated" date. Continued use of the app after such changes constitutes your acceptance of the revised policy.
+We may update this Privacy Policy from time to time. Any changes related to Shopkeeper obligations and/or User rights will be clearly reflected here with an updated “Last Updated” date. Your continued use of the App constitutes acceptance of any revised policy.
 
 ---
 
